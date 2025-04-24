@@ -1,4 +1,4 @@
-Ejercicio 1.1
+echo Ejercicio 1.1
 
 clear -x
 #!/bin/bash
@@ -9,6 +9,5 @@ echo "la variable PWD tiene el valor $PWD"
 echo "la variable USER tiene el valor $USER"
 echo "la variable SSH_TTY tiene el valor $SSH_TTY"
 
-Ejercicio 1.2
 
 
